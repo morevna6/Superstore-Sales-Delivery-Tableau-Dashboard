@@ -193,7 +193,7 @@ The screenshot below shows the Delivery Performance Dashboard created in Tableau
 Screenshot file included in this repository:
 
 ```text
-Screenshot 2026-05-28 124053.png
+Superstore_Sales_Delivery_Performance_Dashboard.png
 ```
 
 ![Delivery Performance Dashboard](Superstore_Sales_Delivery_Performance_Dashboard.png)
