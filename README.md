@@ -196,7 +196,7 @@ Screenshot file included in this repository:
 Screenshot 2026-05-28 124053.png
 ```
 
-![Delivery Performance Dashboard](images/Screenshot%202026-05-28%20124053.png)
+![Delivery Performance Dashboard](Superstore_Sales_Delivery_Performance_Dashboard.png)
 
 > Note: The image file is stored inside the `images` folder.  
 > Because the filename contains spaces, the spaces are written as `%20` in the Markdown image path.
