@@ -272,4 +272,4 @@ The final dashboard provides a structured view of sales, profit, profitability, 
 
 ## Author
 
-Created by **Fatma Günışığı Aydoğan** as part of a Tableau data analytics module final project.
+Created by **Günışığı Aydoğan** as part of a Tableau data analytics module final project for GoIT.
